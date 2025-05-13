@@ -1,0 +1,16 @@
+{
+  "name": "azure-function",
+  "version": "1.0.0",
+  "description": "Azure Function Example",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "dependencies": {
+    "@azure/functions": "^3.0.0",
+    "axios": "^1.3.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.x"
+  }
+}
